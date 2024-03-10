@@ -1,6 +1,6 @@
 ## This project is maintained by Deepak Singh
 
-# Machine Health Monitoring Jupyter Notebook Project
+# Machine Health Monitoring
 
 ## Overview
 
